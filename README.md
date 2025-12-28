@@ -166,10 +166,10 @@ As the **Lead Flutter Developer**, I was responsible for:
 │                   │                                                 │
 │    ┌──────────────┼──────────────┐                                  │
 │    │              │              │                                  │
-│  ┌─▼──────┐  ┌────▼─────┐  ┌────▼─────┐                             │
-│  │Firebase│  │ Firebase │  │ Firebase │                             │
-│  │  Auth  │  │Firestore │  │ Storage  │                             │
-│  └─┬──────┘  └────┬─────┘  └────┬─────┘                             │
+│  ┌─▼──────┐  ┌────▼─────┐   ┌────▼─────┐                            │
+│  │Firebase│  │ Firebase │   │ Firebase │                            │
+│  │  Auth  │  │Firestore │   │ Storage  │                            │
+│  └─┬──────┘  └────┬─────┘   └────┬─────┘                            │
 │    │              │              │                                  │
 │  ┌─┴──────────────┴──────────────┴────┐                             │
 │  │ • Email/Password Authentication    │                             │
